@@ -13,6 +13,7 @@ project_name = "holiday_management"
 list_of_files = [
     # Configuration directory
     f"{project_name}/config/settings.py",
+    f"{project_name}/config/__init__.py"
 
     # Agents directory - contains different agent implementations
     f"{project_name}/agents/__init__.py",

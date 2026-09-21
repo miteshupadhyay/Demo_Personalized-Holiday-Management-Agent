@@ -158,6 +158,8 @@ env.bak/
 venv.bak/
 .personalmgmt
 personalmgmt/
+.Holiday_Management.egg-info
+Holiday_Management.egg-info/
 
 # Spyder project settings
 .spyderproject
