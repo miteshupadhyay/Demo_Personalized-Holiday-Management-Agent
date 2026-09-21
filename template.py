@@ -28,6 +28,10 @@ list_of_files = [
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/utils.py",
 
+    # LLM Models Configuration
+    f"{project_name}/models/gpt_model.py",
+    f"{project_name}/models/__init__.py"
+
     # Root level application files
     "app.py",
     "tests.py"
