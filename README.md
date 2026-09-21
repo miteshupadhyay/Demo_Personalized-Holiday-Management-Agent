@@ -75,3 +75,6 @@ python -m venv personalmgmt
 
 # Install Dependencies
 pip install -r requirements.txt
+
+# Create .env 
+OPENAI_API_KEY = "Keep your OPENAI_API_KEY here"

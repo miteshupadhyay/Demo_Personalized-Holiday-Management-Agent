@@ -34,7 +34,7 @@ list_of_files = [
 
     # Root level application files
     "app.py",
-    "tests.py"
+    "main.py"
 ]
 
 # Iterate through each file path and create directories and files if they don't exist
