@@ -32,6 +32,10 @@ list_of_files = [
     f"{project_name}/models/gpt_model.py",
     f"{project_name}/models/__init__.py"
 
+    # UI Interface
+    f"templates/index.html"
+    f"static/style.css"
+
     # Root level application files
     "app.py",
     "main.py"

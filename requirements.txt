@@ -3,4 +3,7 @@ autogen-ext[openai]
 dotenv
 pydantic
 python-dotenv
+fastapi
+uvicorn
+jinja2
 -e .

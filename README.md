@@ -78,3 +78,9 @@ pip install -r requirements.txt
 
 # Create .env 
 OPENAI_API_KEY = "Keep your OPENAI_API_KEY here"
+
+# Run the application
+uvicorn app:app --reload
+
+# Access it 
+http://127.0.0.1:8000
